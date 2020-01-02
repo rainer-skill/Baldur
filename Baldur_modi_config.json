@@ -1,0 +1,16 @@
+{
+    "modus": [
+        {
+            "name": "Mono",
+            "colors": 1
+        },
+        {
+            "name": "Duo",
+            "colors": 2
+        },
+        {
+            "name": "Trio",
+            "colors": 3
+        }
+    ]
+}
