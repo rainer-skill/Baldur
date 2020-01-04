@@ -1,5 +1,5 @@
 from flask import Flask, json, request
-from neopixel import Color
+from rpi_ws281x import Color
 import baldur_2
 import json
 

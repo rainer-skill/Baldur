@@ -1,4 +1,4 @@
-from neopixel import *
+from rpi_ws281x import *
 import time
 
  # LED strip configuration:
